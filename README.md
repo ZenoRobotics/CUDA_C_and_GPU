@@ -1,3 +1,10 @@
-These github files are for my Intro to CUDA C and GPU Architecture course, as well as for a longer related courses.
+# Intro to CUDA C and GPU Architecture Course - 4 hr and extended versions 
 
-The link to the CUDA By Example Book resources is: https://github.com/CodedK/CUDA-by-Example-source-code-for-the-book-s-examples-
+Note: Book used for this course is "Programming Massively Parallel Processors - A Hands-on Approach" 
+The current newest edition is Four. However, there is a free PDF of edition three. So, feel free
+to use the free PDF found here:
+
+http://gpu.di.unimi.it/books/PMPP-3rd-Edition.pdf
+
+Sample code for this class will be installed here shortly.
+
