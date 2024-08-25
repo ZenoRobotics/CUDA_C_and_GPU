@@ -6,5 +6,10 @@ to use the free PDF found here:
 
 http://gpu.di.unimi.it/books/PMPP-3rd-Edition.pdf
 
-Sample code for this class will be installed here shortly.
+## Links to 3rd edition and materials:
 
+https://shop.elsevier.com/books/programming-massively-parallel-processors/kirk/978-0-12-811986-0
+
+## Book resources root links:
+https://booksite.elsevier.com/9780128119860/  
+https://booksite.elsevier.com/9780128119860/lecture.php
