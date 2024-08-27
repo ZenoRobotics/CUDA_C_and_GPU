@@ -16,3 +16,16 @@ https://booksite.elsevier.com/9780128119860/lecture.php
 
 ## CUDA C++ Programming Guide link:
 https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
+
+
+# Course Outline:
+
+- Need for General Purpose Processing on GPUs
+- CPU vs GPU Architecture
+- Mapping CUDA Threads to GPU Cores
+  - Programming Examples
+- CUDA Memory Hierarchy
+- Performance Considerations
+- Brief Coverage of Pytorch and cuDNN
+  
+  
