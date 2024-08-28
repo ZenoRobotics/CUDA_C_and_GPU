@@ -26,6 +26,6 @@ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
   - Programming Examples
 - CUDA Memory Hierarchy
 - Performance Considerations
-- Brief Coverage of Pytorch and cuDNN
+- Brief Coverage of PyTorch and cuDNN
   
   
