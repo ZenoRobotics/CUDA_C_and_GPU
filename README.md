@@ -20,10 +20,16 @@ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
 
 # Course Outline:
 
-- Need for General Purpose Processing on GPUs
-- CPU vs GPU Architecture
-- Mapping CUDA Threads to GPU Cores
-  - Programming Examples
+- nVidia GPU Architecture to Support CUDA
+- Intro to CUDA C and Host program format
+- CUDA threads, blocks, and indexing
+  - nvcc compiler
+  - kernel launch
+  - memory management
+  - kernel and host code synchronization 
+- Programming assignments to illustrate index assignments for thread level, concurrent processing
+  - programming examples are found under 'All Labs' link
+    https://booksite.elsevier.com/9780128119860/lab.php
 - CUDA Memory Hierarchy
 - Performance Considerations
 - Brief Coverage of PyTorch and cuDNN
