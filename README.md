@@ -34,4 +34,7 @@ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
 - Performance Considerations
 - Brief Coverage of PyTorch and cuDNN
   
-  
+
+## Installing CUDA on Windows
+https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
+
