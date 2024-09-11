@@ -12,7 +12,7 @@ https://shop.elsevier.com/books/programming-massively-parallel-processors/kirk/9
 
 ## Book resources root links:
 https://booksite.elsevier.com/9780128119860/  
-https://booksite.elsevier.com/9780128119860/lecture.php
+https://booksite.elsevier.com/9780128119860/lecture.php   (Extra Lecture Slides)
 
 ## CUDA C++ Programming Guide link:
 https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
