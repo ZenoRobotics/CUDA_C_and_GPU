@@ -32,7 +32,7 @@ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
     https://booksite.elsevier.com/9780128119860/lab.php
 - CUDA Memory Hierarchy
 - Performance Considerations
-- Brief Coverage of PyTorch and cuDNN
+- Brief Coverage of PyTorch with CUDA, cuDNN, and cuVSLAM!
   
 
 ## Installing CUDA on Windows
