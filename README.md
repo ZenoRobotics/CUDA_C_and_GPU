@@ -50,13 +50,13 @@ https://pytorch.org/docs/stable/notes/cuda.html
 
 
 # Signup Instructions
-Information about signing up for the 5hr courses I offer (The Zeno Institute of Robotics and Artificial Intelligence) which cost $60 is as follows:
+Information about signing up for the 5hr courses I offer (The Zeno Institute of Robotics and Artificial Intelligence), which cost $60 each, is as follows:
 
-Payment currently is through Venmo, PayPal, Zelle, or Cash app. I’m working on getting my website so payments in the future can be made there. So, for now, please contact me for payment details for the above mentioned methods.
+Payment currently is through Venmo, PayPal, Zelle, or Cash app. I’m working on getting my website up so payments in the future can be made there. But, for now, please contact me for payment details for the above mentioned methods.
 
 Once you pay, I will send you a link to the booking calendar where you can setup your times.
 
-When selecting your hour slots, please limit any day to 2 hours max. Also, you don’t have to book all of your 5 hr time slots at once. You can select them as time progresses if you wish. 
+When selecting your hour slots, please only choose an hour block for the first hour meeting. This will give me a chance to find out about your HW & SW setup, point out links to get you started, etc. Please limit any single day session to 2 hours max to give you time to absorb the concepts and do some programming/homework problems. Also, you don’t have to book all 5 hr time slots at once. You can select them as time progresses if you wish.  
 
 
 
