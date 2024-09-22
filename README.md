@@ -56,7 +56,40 @@ Payment currently is through Venmo, PayPal, Zelle, or Cash app. I’m working on
 
 Once you pay, I will send you a link to the booking calendar where you can setup your times.
 
-When selecting your hour slots, please only choose an hour block for the first hour meeting. This will give me a chance to find out about your HW & SW setup, point out links to get you started, etc. Please limit any single day session to 2 hours max to give you time to absorb the concepts and do some programming/homework problems. Also, you don’t have to book all 5 hr time slots at once. You can select them as time progresses if you wish.  
+When selecting your hour slots, please only choose an hour block for the first hour meeting. This will give me a chance to find out about your HW & SW setup, point out links to get you started, etc. Please limit any single day session to 2 hours max to give you time to absorb the concepts and do some programming/homework problems. Also, you don’t have to book all 5 hr time slots at once. You can select them as time progresses if you wish.
+
+# Additional Learning Resources Links
+
+## YouTube
+Tom Nurkkala - Video talks for various Computer Science courses at Taylor University. 
+
+- CUDA Hardware
+https://www.youtube.com/watch?v=kUqkOAU84bA
+
+- Intro to GPU Programming
+https://www.youtube.com/watch?v=G-EimI4q-TQ
+
+## Code Links
+CUDA Samples
+https://github.com/nvidia/cuda-samples
+ 
+Programming-Massively-Parallel-Processors Learning Material (Reading/Images, Exercises, & Labs)
+https://github.com/R100001/Programming-Massively-Parallel-Processors/tree/master
+ 
+## Colab
+
+- How to use gpu in google colab?
+https://www.geeksforgeeks.org/how-to-use-gpu-in-google-colab/
+ 
+- Colab Site
+https://colab.research.google.com
+ 
+- Example CUDA GPU Use Github/Notebook
+https://colab.research.google.com/github/ShimaaElabd/CUDA-GPU-Contrast-Enhancement/blob/master/CUDA_GPU.ipynb#scrollTo=mgH5HreZ2WS9
+
+
+
+
 
 
 
