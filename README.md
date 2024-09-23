@@ -87,7 +87,9 @@ https://colab.research.google.com
 - Example CUDA GPU Use Github/Notebook
 https://colab.research.google.com/github/ShimaaElabd/CUDA-GPU-Contrast-Enhancement/blob/master/CUDA_GPU.ipynb#scrollTo=mgH5HreZ2WS9
 
+## Cupy
 
+https://cupy.dev/
 
 
 
