@@ -73,6 +73,12 @@ Tom Nurkkala - Video talks for various Computer Science courses at Taylor Univer
 - Intro to GPU Programming \
   https://www.youtube.com/watch?v=G-EimI4q-TQ
 
+CUDA University Courses
+
+University of Illinois : Current Course: ECE408/CS483
+Taught by Professor Wen-mei W. Hwu and David Kirk, NVIDIA CUDA Scientist. \
+https://developer.nvidia.com/educators/existing-courses#2
+
 Other:
 
 - Data Access Pattern Matters: How CUDA Programming Works | GTC 2022 (6:55 and on) \
@@ -94,6 +100,9 @@ Other:
 
 - How to use gpu in google colab? \
   https://www.geeksforgeeks.org/how-to-use-gpu-in-google-colab/
+
+- How to Use Colab  \
+  https://www.geeksforgeeks.org/how-to-use-google-colab/
  
 - Colab Site \
   https://colab.research.google.com
