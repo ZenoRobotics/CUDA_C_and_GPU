@@ -111,7 +111,7 @@ https://pypi.org/project/pycuda/
 
 ## Cupy
 
-- About
+- About \
 https://cupy.dev/
 
 - Interoperability \
