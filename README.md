@@ -70,7 +70,8 @@ https://www.youtube.com/watch?v=kUqkOAU84bA
 https://www.youtube.com/watch?v=G-EimI4q-TQ
 
 ## Code Links
-CUDA Samples
+
+- CUDA Samples
 https://github.com/nvidia/cuda-samples
  
 Programming-Massively-Parallel-Processors Learning Material (Reading/Images, Exercises, & Labs)
@@ -87,6 +88,8 @@ https://colab.research.google.com
 - Example CUDA GPU Use Github/Notebook
 https://colab.research.google.com/github/ShimaaElabd/CUDA-GPU-Contrast-Enhancement/blob/master/CUDA_GPU.ipynb#scrollTo=mgH5HreZ2WS9
 
+- Example: GPU calculation in python with Cupy and Numba
+https://colab.research.google.com/drive/15IDLiUMRJbKqZUZPccyigudINCD5uZ71?usp=sharing
 
 ## PyCUDA
 
@@ -95,7 +98,12 @@ https://pypi.org/project/pycuda/
 
 ## Cupy
 
+- About
 https://cupy.dev/
+
+- Interoperability
+https://docs.cupy.dev/en/stable/user_guide/interoperability.html
+
 
 
 
