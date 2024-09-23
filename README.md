@@ -98,11 +98,14 @@ Other:
  
 ## Colab
 
-- How to use gpu in google colab? \
+- How to Use a GPU In Google Colab \
   https://www.geeksforgeeks.org/how-to-use-gpu-in-google-colab/
 
 - How to Use Colab  \
   https://www.geeksforgeeks.org/how-to-use-google-colab/
+
+- How to use GPU acceleration in PyTorch \
+  https://www.geeksforgeeks.org/how-to-use-gpu-acceleration-in-pytorch/
  
 - Colab Site \
   https://colab.research.google.com
