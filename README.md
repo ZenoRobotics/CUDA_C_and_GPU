@@ -65,38 +65,44 @@ When selecting your hour slots, please only choose an hour block for the first h
 # Additional Learning Resources Links
 
 ## YouTube
-Tom Nurkkala - Video talks for various Computer Science courses at Taylor University. 
+Tom Nurkkala - Video talks for various Computer Science courses at Taylor University:
 
-- CUDA Hardware
+- CUDA Hardware \
 https://www.youtube.com/watch?v=kUqkOAU84bA
 
-- Intro to GPU Programming
+- Intro to GPU Programming \
 https://www.youtube.com/watch?v=G-EimI4q-TQ
 
-- Tutorial: CUDA programming in Python with numba and cupy
-https://www.youtube.com/watch?v=9bBsvpg-Xlk
+Other:
+
+- Data Access Pattern Matters: How CUDA Programming Works | GTC 2022 (6:55 and on) \
+  https://www.youtube.com/watch?v=n6M8R8-PlnE
+
+- Tutorial: CUDA programming in Python with numba and cupy: \
+  https://www.youtube.com/watch?v=9bBsvpg-Xlk
+
 
 ## Code Links
 
-- CUDA Samples
-https://github.com/nvidia/cuda-samples
+- CUDA Samples \
+  https://github.com/nvidia/cuda-samples
  
-Programming-Massively-Parallel-Processors Learning Material (Reading/Images, Exercises, & Labs)
-https://github.com/R100001/Programming-Massively-Parallel-Processors/tree/master
+- Programming-Massively-Parallel-Processors Learning Material (Reading/Images, Exercises, & Labs) \
+  https://github.com/R100001/Programming-Massively-Parallel-Processors/tree/master
  
 ## Colab
 
-- How to use gpu in google colab?
-https://www.geeksforgeeks.org/how-to-use-gpu-in-google-colab/
+- How to use gpu in google colab? \
+  https://www.geeksforgeeks.org/how-to-use-gpu-in-google-colab/
  
-- Colab Site
-https://colab.research.google.com
+- Colab Site \
+  https://colab.research.google.com
  
-- Example CUDA GPU Use Github/Notebook
-https://colab.research.google.com/github/ShimaaElabd/CUDA-GPU-Contrast-Enhancement/blob/master/CUDA_GPU.ipynb#scrollTo=mgH5HreZ2WS9
+- Example CUDA GPU Use Github/Notebook \
+  https://colab.research.google.com/github/ShimaaElabd/CUDA-GPU-Contrast-Enhancement/blob/master/CUDA_GPU.ipynb#scrollTo=mgH5HreZ2WS9
 
-- Example: GPU calculation in python with Cupy and Numba
-https://colab.research.google.com/drive/15IDLiUMRJbKqZUZPccyigudINCD5uZ71?usp=sharing
+- Example: GPU calculation in python with Cupy and Numba \
+  https://colab.research.google.com/drive/15IDLiUMRJbKqZUZPccyigudINCD5uZ71?usp=sharing
 
 ## PyCUDA
 
@@ -108,8 +114,8 @@ https://pypi.org/project/pycuda/
 - About
 https://cupy.dev/
 
-- Interoperability
-https://docs.cupy.dev/en/stable/user_guide/interoperability.html
+- Interoperability \
+  https://docs.cupy.dev/en/stable/user_guide/interoperability.html
 
 
 
