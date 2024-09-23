@@ -73,6 +73,9 @@ https://www.youtube.com/watch?v=kUqkOAU84bA
 - Intro to GPU Programming
 https://www.youtube.com/watch?v=G-EimI4q-TQ
 
+- Tutorial: CUDA programming in Python with numba and cupy
+https://www.youtube.com/watch?v=9bBsvpg-Xlk
+
 ## Code Links
 
 - CUDA Samples
