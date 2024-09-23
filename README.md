@@ -21,6 +21,7 @@ https://github.com/R100001/Programming-Massively-Parallel-Processors/tree/master
 https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
 
 
+
 # Course Outline:
 
 - nVidia GPU Architecture to Support CUDA
@@ -49,6 +50,7 @@ https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.htm
 https://pytorch.org/docs/stable/notes/cuda.html
 
 
+
 # Signup Instructions
 Information about signing up for the 5hr courses I offer (The Zeno Institute of Robotics and Artificial Intelligence), which cost $60 each, is as follows:
 
@@ -57,6 +59,8 @@ Payment currently is through Venmo, PayPal, Zelle, or Cash app. I’m working on
 Once you pay, I will send you a link to the booking calendar where you can setup your times.
 
 When selecting your hour slots, please only choose an hour block for the first hour meeting. This will give me a chance to find out about your HW & SW setup, point out links to get you started, etc. Please limit any single day session to 2 hours max to give you time to absorb the concepts and do some programming/homework problems. Also, you don’t have to book all 5 hr time slots at once. You can select them as time progresses if you wish.
+
+
 
 # Additional Learning Resources Links
 
