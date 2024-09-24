@@ -122,7 +122,8 @@ Other:
 ## Colab
 
 - How to Use a GPU In Google Colab \
-  https://www.geeksforgeeks.org/how-to-use-gpu-in-google-colab/
+  https://www.geeksforgeeks.org/how-to-use-gpu-in-google-colab/  \
+  https://www.geeksforgeeks.org/how-to-run-cuda-c-c-on-jupyter-notebook-in-google-colaboratory/
 
 - How to Use Colab  \
   https://www.geeksforgeeks.org/how-to-use-google-colab/
