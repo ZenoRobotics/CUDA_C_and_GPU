@@ -36,12 +36,32 @@ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
     https://booksite.elsevier.com/9780128119860/lab.php
 - CUDA Memory Hierarchy
 - Performance Considerations
-- Brief Coverage of PyTorch with CUDA, cuDNN, and cuVSLAM!
+- Brief Coverage of PyTorch with CUDA, cuDNN, and cuVSLAM
 
 For those without a GPU on your PC, you can use Google's Colab for free GPU access using Jupyter Notebook: \
 https://www.geeksforgeeks.org/how-to-use-google-colab/  \
 https://research.google.com/colaboratory/faq.html
-  
+
+## Key Course Takeaways
+- Why Nvidia GPU Architectures Changed to General Purpose Processing Architectures (CUDA Arch) 
+- CPU vs GPU Hardware Architecture: Key differences in unit processor's complexity and why.
+- GPU Hardware Basic Components Used For CUDA General Purpose Processing
+- GPU Hardware to Software Vocabular Mapping/Translation
+- Block and Thread Level Indexing Concept (through Lecture and Programming Homework Problems).
+- Memory Hierarchy
+- SDRAM Access Types, Latency Caused by Not Batch Fetches  
+- Memory Coalescing vs Non-Coalesced Access Pattern Impact on Performance
+- Performance Considerations
+- CUDA, Numba, Cupy, Tensorflow, Pytorch relations
+
+## Prerequisites
+- Working Knowledge of C
+- Exposure to Basic Computer Architecture
+
+## GPU Access for Gaining Programming Experience 
+Methods:
+1) Nvida GPU installed on your own computer (via Windows, Linux, or Mac OS)
+2) Use of Google Colab-Notebook through your web browser to gain free access of GPU via Cloud Service.
 
 ## Installing CUDA on Windows
 https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
