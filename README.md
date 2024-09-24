@@ -95,6 +95,9 @@ Other:
  
 - Programming-Massively-Parallel-Processors Learning Material (Reading/Images, Exercises, & Labs) \
   https://github.com/R100001/Programming-Massively-Parallel-Processors/tree/master
+
+- CUDA Concepts Cheat Sheet \
+  https://kdm.icm.edu.pl/Tutorials/GPU-intro/introduction.en/
  
 ## Colab
 
