@@ -143,7 +143,7 @@ Other:
 
 ## PTX and SASS
 
-- Parallel Thread Execution (PTX)
+- Parallel Thread Execution (PTX)   \
   https://docs.nvidia.com/cuda/parallel-thread-execution/index.html
   
 - PTX and SASS Assembly Debugging \
