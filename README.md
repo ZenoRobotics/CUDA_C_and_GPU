@@ -72,9 +72,9 @@ https://pytorch.org/docs/stable/notes/cuda.html
 
 
 # Signup Instructions
-Information about signing up for the 5hr courses I offer (The Zeno Institute of Robotics and Artificial Intelligence), which cost $60 each, is as follows:
+Information about signing up for the 5hr courses I offer (The Zeno Institute of Robotics and Artificial Intelligence), is as follows:
 
-Payment currently is through Venmo, PayPal, Zelle, or Cash app. I’m working on getting my website up so payments in the future can be made there. But, for now, please contact me for payment details for the above mentioned methods.
+You can purchase some of these courses through the [ZenoRobotcs.com](https://www.zenorobotics.com/courses) website. Other payment option is through Venmo, PayPal, Zelle, or Cash app. There is a $5/course savings for using Zelle. Please contact me for payment details for non-website methods.
 
 Once you pay, I will send you a link to the booking calendar where you can setup your times.
 
@@ -139,6 +139,16 @@ Other:
 
 - Example: GPU calculation in python with Cupy and Numba \
   https://colab.research.google.com/drive/15IDLiUMRJbKqZUZPccyigudINCD5uZ71?usp=sharing
+
+
+## PTX and SASS
+
+- Parallel Thread Execution (PTX)
+  https://docs.nvidia.com/cuda/parallel-thread-execution/index.html
+  
+- PTX and SASS Assembly Debugging \
+  https://docs.nvidia.com/gameworks/content/developertools/desktop/ptx_sass_assembly_debugging.htm
+
 
 ## PyCUDA
 
