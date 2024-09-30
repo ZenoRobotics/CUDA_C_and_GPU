@@ -38,9 +38,11 @@ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
 - Performance Considerations
 - Brief Coverage of PyTorch with CUDA, cuDNN, and cuVSLAM
 
-For those without a GPU on your PC, you can use Google's Colab for free GPU access using Jupyter Notebook: \
-https://www.geeksforgeeks.org/how-to-use-google-colab/  \
-https://research.google.com/colaboratory/faq.html
+The course uses Jupyter Notebook - Colab. If you have your a GPU on your computer and wish to use a different application or command line execution, please feel free to do so.
+
+* Follow these directions to get acquanted with running CUDA code on the Jupyter Notebook platform: \
+https://www.geeksforgeeks.org/how-to-run-cuda-c-c-on-jupyter-notebook-in-google-colaboratory/
+
 
 ## Key Course Takeaways
 - Why Nvidia GPU Architectures Changed to General Purpose Processing Architectures (CUDA Arch) 
