@@ -50,7 +50,7 @@ https://www.geeksforgeeks.org/how-to-run-cuda-c-c-on-jupyter-notebook-in-google-
 - GPU Hardware to Software Vocabular Mapping/Translation
 - Block and Thread Level Indexing Concept (through Lecture and Programming Homework Problems).
 - Memory Hierarchy
-- SDRAM Access Types, Latency Caused by Non-Batch Fetches  
+- DRAM Circuit Operation Considerations: Access Types, Latency Caused by Non-Batch Fetches  
 - Memory Coalescing vs Non-Coalesced Access Pattern Impact on Performance
 - Performance Considerations
 - CUDA, Numba, Cupy, Tensorflow, Pytorch relations
