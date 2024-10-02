@@ -33,7 +33,7 @@ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
 - Tensor Cores: Architecture and NN Application
 - CUDA Memory Hierarchy
 - Shared memory and thread synchronization
-- SDRAM circuit level review: read, write, row, column access, precharge, and refresh phases.  
+DRAM Circuit Operation Considerations: Access Types, Latency Caused by Non-Batch Fetches 
 - Performance Considerations
 - Brief Coverage of PyTorch with CUDA, cuDNN, and cuVSLAM
 
