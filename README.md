@@ -30,11 +30,12 @@ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
   - nvcc compiler
   - kernel launch
   - memory management
-  - kernel and host code synchronization 
+  - kernel and host code synchronization
 - Programming assignments to illustrate index assignments for thread level, concurrent processing
   - programming examples are found under 'All Labs' link
     https://booksite.elsevier.com/9780128119860/lab.php
 - CUDA Memory Hierarchy
+- Shared memory and thread synchronization 
 - Performance Considerations
 - Brief Coverage of PyTorch with CUDA, cuDNN, and cuVSLAM
 
