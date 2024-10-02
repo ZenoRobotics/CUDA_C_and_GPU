@@ -23,7 +23,6 @@ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
 
 
 # Course Outline:
-
 - nVidia GPU Architecture to Support CUDA
 - Intro to CUDA C and Host program format
 - CUDA threads, blocks, and indexing
@@ -31,9 +30,7 @@ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
   - kernel launch
   - memory management
   - kernel and host code synchronization
-- Programming assignments to illustrate index assignments for thread level, concurrent processing
-  - programming examples are found under 'All Labs' link
-    https://booksite.elsevier.com/9780128119860/lab.php
+- Tensor Cores: Architecture and NN Application
 - CUDA Memory Hierarchy
 - Shared memory and thread synchronization 
 - Performance Considerations
@@ -52,7 +49,7 @@ https://www.geeksforgeeks.org/how-to-run-cuda-c-c-on-jupyter-notebook-in-google-
 - GPU Hardware to Software Vocabular Mapping/Translation
 - Block and Thread Level Indexing Concept (through Lecture and Programming Homework Problems).
 - Memory Hierarchy
-- SDRAM Access Types, Latency Caused by Not Batch Fetches  
+- SDRAM Access Types, Latency Caused by Non-Batch Fetches  
 - Memory Coalescing vs Non-Coalesced Access Pattern Impact on Performance
 - Performance Considerations
 - CUDA, Numba, Cupy, Tensorflow, Pytorch relations
