@@ -32,7 +32,8 @@ https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
   - kernel and host code synchronization
 - Tensor Cores: Architecture and NN Application
 - CUDA Memory Hierarchy
-- Shared memory and thread synchronization 
+- Shared memory and thread synchronization
+- SDRAM circuit level review: read, write, row, column access, precharge, and refresh phases.  
 - Performance Considerations
 - Brief Coverage of PyTorch with CUDA, cuDNN, and cuVSLAM
 
