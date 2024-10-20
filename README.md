@@ -67,6 +67,9 @@ Methods:
 ## Installing CUDA on Windows
 https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
 
+## Verify CUDA Install (RHEL or Ubuntu) and Toolkit
+https://xcat-docs.readthedocs.io/en/stable/advanced/gpu/nvidia/verify_cuda_install.html
+
 ## Other Links of Possible Interest or Reference
 https://pytorch.org/docs/stable/notes/cuda.html
 
