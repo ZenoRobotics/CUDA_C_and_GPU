@@ -1,4 +1,4 @@
-# Intro to CUDA C and GPU Architecture Course - 5 hr and extended versions 
+# Intro to CUDA C and GPU Architecture Course - 5/6 hr and extended versions 
 
 Note: Book used for this course is "Programming Massively Parallel Processors - A Hands-on Approach" 
 The current newest edition is the 4th edition. However, there is a free PDF of for the 4th edition. So, feel free
