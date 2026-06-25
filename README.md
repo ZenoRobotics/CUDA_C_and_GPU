@@ -78,7 +78,7 @@ https://pytorch.org/docs/stable/notes/cuda.html
 # Signup Instructions
 Information about signing up for the 5hr courses I offer (The Zeno Institute of Robotics and Artificial Intelligence), is as follows:
 
-You can purchase some of these courses through the [ZenoRobotcs.com](https://www.zenorobotics.com/courses) website. Other payment option is through Venmo, PayPal, Zelle, or Cash app. There is a $5/course savings for using Zelle. Please contact me for payment details for non-website methods.
+You can purchase some of these courses through the [ZenoRobotcs.net](https://www.zenorobotics.net/courses) website. Other payment option is through Venmo, PayPal, Zelle, or Cash app. There is a $5/course savings for using Zelle. Please contact me for payment details for non-website methods.
 
 Once you pay, I will send you a link to the booking calendar where you can setup your times.
 
